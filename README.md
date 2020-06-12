@@ -1,0 +1,2 @@
+# WeirdPress
+Alternative to WordPress.
